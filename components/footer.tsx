@@ -13,7 +13,7 @@ export function Footer() {
         </Link>
         
         <p className="text-sm text-muted-foreground">
-          © 2026 sant01. Todos los derechos reservados.
+          © 2026 San01. Todos los derechos reservados.
         </p>
       </div>
     </footer>
